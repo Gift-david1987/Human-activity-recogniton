@@ -1,1 +1,1 @@
-# Human-activity-recogniton
+Sample 1
